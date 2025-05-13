@@ -36,10 +36,10 @@ I'm currently pursuing a Bachelor’s Degree in Applied Cybersecurity at the SAN
 
 **Recent CTF Events:**
 
--  **NCL Spring 2025** – Percentile Overall Team Game | 
--  **NCL Spring 2025** – Percentile Overall Individual Game | 
+-  **NCL Spring 2025** – 99th Percentile Overall Team Game | 
+-  **NCL Spring 2025** – 96th Percentile Overall Individual Game | Scouting Report Available
 -  **NCL Fall 2024** - 82nd Percentile Overall Team Game |
--  **NCL Fall 2024** - 72nd Percentile Overall Individual Game |
+-  **NCL Fall 2024** - 72nd Percentile Overall Individual Game | Scouting Report Available
 ---
 
 ## 🎓 Certifications & Education
