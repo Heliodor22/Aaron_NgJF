@@ -32,6 +32,20 @@ I'm currently pursuing a Bachelor’s Degree in Applied Cybersecurity at the SAN
 
 ---
 
+## 🎓 Certifications & Education
+
+- 🎓 BSc Cybersecurity, [SANS Technology Institute] *(in progress)
+-  GIAC Certified Python Coder (GPYC) In Progress Currently
+-  GIAC Certified Incident Handler (GCIH)
+-  GIAC Security Essentials (GSEC)
+-  GIAC Information Security Fundamentals (GISF) 
+-  GIAC Foundational Cybersecurity Technologies (GFACT) 
+-  Cisco CCNA 
+-  (ISC)2 Certified in Cybersecurity (CC)
+-  🎓 Bachelor of Dramatic Arts (Production)
+
+---
+
 ## 🕹️ Capture The Flag (CTF)
 
 **Recent CTF Events:**
@@ -40,15 +54,43 @@ I'm currently pursuing a Bachelor’s Degree in Applied Cybersecurity at the SAN
 -  **NCL Spring 2025** – 96th Percentile Overall Individual Game | Scouting Report Available
 -  **NCL Fall 2024** - 82nd Percentile Overall Team Game |
 -  **NCL Fall 2024** - 72nd Percentile Overall Individual Game | Scouting Report Available
+
 ---
 
-## 🎓 Certifications & Education
+##  📚 Other Engagements and Learning
 
-- 🎓 BSc Cybersecurity, [SANS Technology Institute] *(in progress)*
--  GIAC Certified Incident Handler (GCIH)
--  GIAC Security Essentials (GSEC)
--  GIAC Information Security Fundamentals (GISF) 
--  GIAC Foundational Cybersecurity Technologies (GFACT) 
--  Cisco CCNA 
--  (ISC)2 Certified in Cybersecurity (CC)
--  Bachelor of Dramatic Arts (Production)
+-  **TryHackMe 2025** Completed 110 Rooms that includes the Cybersecurity 101 Certificate Completed, Cybersecurity Engineering Path In Progress)
+-  **OvertheWire Wargames** Completed Bandit Level 1-34
+-  **National Cyber League** CyberSkyline Professional Subscription
+
+---
+
+## 🔧 Homelab Projects
+
+| System | Description | Skills Demonstrated |
+|--------|-------------|----------------------|
+| pfSense Firewall | Configured firewall on different Interfaces  | Network segmentation, NTP, IDS/IPS, Access Control Rules |
+| Windows AD Domain | Simulated enterprise with Domain Joining, GPOs, Log Forwarding to SIEM | Active Directory, Windows Hardening |
+| Wazuh (OVA) | Monitor Windows Policy violations, Monitor suspicious connections | IDS, Endpoint Monitoring |
+| Security Onion | Setup with Zeek, Suricata | Log aggregation, SIEM tuning | (In Progress)
+| Linux Servers | Syslog + Rocky Linux log server | Linux administration, remote logging | (In Progress)
+
+> 📁 See full documentation in the [`/homelab`](/homelab)directory.
+
+---
+
+ ## 📜 Other Certificates and Short Courses
+- WSQ Work as a Team
+- Personal Effectiveness
+- ENiBLE Aspiring Supervisors Program
+- Greensafe International WSH and Risk Management Courses
+- ICDL Advanced Excel Course
+- Work at Height Course
+- Fundamentals of Fiber Optics Testing Workshop
+- Troubleshooting your CCTV Networks with LINKIQ
+- Fundamentals of Network Copper Testing Workshop
+- Q-Sys Audio DSP Lvl 1 & 2 Certificate
+- Q-Sys Control 101 & 102
+- Audinate Dante Lvl 1-3(2019)
+- ETC Lighting Systems (Various)
+- BoomLift, ScissorLift, Personal Platform Operator Course (2022)
