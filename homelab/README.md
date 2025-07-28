@@ -35,13 +35,13 @@ This is a work-in-progress homelab system and document is a fully virtualized, e
 
 ## Tools & Technologies
 
-**SIEM**: Wazuh, ELK Stack, Security Onion
-**Firewall**: pfSense
-**NSM**: Suricata, Zeek, Hunt, Kibana, Wireshark
-**Log Management**: rsyslog, Filebeat, Winlogbeat
-**Threat Simulation**: Metasploit, Nmap, Hashcat, Kali tools
-**DFIR**: SIFT, CyberChef, Log analysis
-**Endpoint Monitoring**: Osquery, Wazuh Agent, Security Onion Fleet
+- **SIEM**: Wazuh, ELK Stack, Security Onion
+- **Firewall**: pfSense
+- **NSM**: Suricata, Zeek, Hunt, Kibana, Wireshark
+- **Log Management**: rsyslog, Filebeat, Winlogbeat
+- **Threat Simulation**: Metasploit, Nmap, Hashcat, Kali tools
+- **DFIR**: SIFT, CyberChef, Log analysis
+- **Endpoint Monitoring**: Osquery, Wazuh Agent, Security Onion Fleet
 
 ## Key Features
 - Multiple Interfaces/subnets via pfSense for segmented lab traffic
