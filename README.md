@@ -22,7 +22,7 @@ I'm currently pursuing a Bachelor’s Degree in Applied Cybersecurity at the SAN
 - Network traffic analysis & anomaly detection  
 
 🧪 **Digital Forensics & Incident Response (DFIR)**  
-- Memory and disk forensics (Volatility, Autopsy)   
+- Memory and disk forensics (Volatility, MemProcFs)   
 - Evidence preservation & timeline reconstruction  
 
 ☁️ **Cloud Security (AWS/Azure)**  
@@ -35,12 +35,16 @@ I'm currently pursuing a Bachelor’s Degree in Applied Cybersecurity at the SAN
 ## 🎓 Certifications & Education
 
 - 🎓 BSc Cybersecurity, [SANS Technology Institute] *(in progress)
--  GIAC Certified Python Coder (GPYC) In Progress Currently
+-  GIAC Certified Forensic Analyst (GCFA) (In Progress)
+-  GIAC Certified Intrusion Analyst (GCIA)
+-  GIAC Continuous Monitoring Certification (GMON)
+-  GIAC Certified Python Coder (GPYC)
 -  GIAC Certified Incident Handler (GCIH)
 -  GIAC Security Essentials (GSEC)
 -  GIAC Information Security Fundamentals (GISF) 
 -  GIAC Foundational Cybersecurity Technologies (GFACT) 
--  Cisco CCNA 
+-  Cisco CCNA
+-  Certificate of Cloud Security Knowledge V5 (Cloud Security Alliance)
 -  (ISC)2 Certified in Cybersecurity (CC)
 -  🎓 Bachelor of Dramatic Arts (Production)
 
@@ -61,7 +65,7 @@ I'm currently pursuing a Bachelor’s Degree in Applied Cybersecurity at the SAN
 
 ##  📚 Other Engagements and Learning
 
--  **TryHackMe 2025** Completed 110 Rooms that includes the Cybersecurity 101 Certificate Completed, Cybersecurity Engineering Path In Progress)
+-  **TryHackMe 2025/2026** Completed 140 Rooms that includes the Cybersecurity 101 Certificate Completed, Cybersecurity Engineering Path In Progress)
 -  **OvertheWire Wargames** Completed Bandit Level 1-34
 -  **National Cyber League** CyberSkyline Professional Subscription
 
@@ -82,6 +86,7 @@ I'm currently pursuing a Bachelor’s Degree in Applied Cybersecurity at the SAN
 ---
 
  ## 📜 Other Certificates and Short Courses
+- Cybersecurity Related Udemy Courses
 - WSQ Work as a Team
 - Personal Effectiveness
 - ENiBLE Aspiring Supervisors Program
